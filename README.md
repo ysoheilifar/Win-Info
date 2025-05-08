@@ -46,4 +46,11 @@ python win_info.py
 3. View detailed system specs in the terminal
 4. CSV file will be created in the current director
 
+### Contributions
+Feel free to fork, improve, and submit pull requests.
+If you find issues or have feature suggestions, open an issue! 🚀
+
+Let me know if you'd like any modifications! 😃🔥
+Also, feel free to share your GitHub link—I’d love to check it out! 🚀
+
 
