@@ -26,4 +26,24 @@ This repository contains Python and PowerShell scripts that retrieve detailed sy
 
 ### How to Use:
 #### Python
-   
+1. Install dependencies:
+```python
+pip install wmi psutil
+```
+2. Run the script:
+```python
+python win_info.py
+```
+3. View system details in the terminal
+4. Check the generated CSV file in the script director
+
+#### PowerShell
+1.  Open PowerShell as Administrator
+2.  Run:
+```powershell
+.\win_info.ps1
+```
+3. View detailed system specs in the terminal
+4. CSV file will be created in the current director
+
+
